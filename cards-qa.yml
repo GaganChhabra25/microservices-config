@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to Cards QA microservices - 1"
+  message: "Welcome to Cards QA microservices - 2"
   contactDetails:
     name: "cards QA"
     email: "cardsqa@gmail.com"
