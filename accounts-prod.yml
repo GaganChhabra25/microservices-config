@@ -5,5 +5,5 @@ accounts:
   message: "Welcome to microservices"
   contactDetails:
     name: "Gagan-Prod support"
-    email: "gagan@gmail.com"
+    email: "{cipher}2c45453d5ee9e7611c1b60b4cfe9c80f925d73651abaf3617ee4dd93c3174ebc"
     phone: 789
