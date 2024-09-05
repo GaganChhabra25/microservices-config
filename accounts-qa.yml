@@ -1,5 +1,5 @@
 accounts:
-  message: "Welcome to microservices"
+  message: "Welcome to accounts microservices QA - 1"
   contactDetails:
     name: "Nitin-QA Lead"
     email: "nitin@gmail.com"
