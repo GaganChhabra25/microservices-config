@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to Loans qa microservices"
+  message: "Welcome to Loans qa microservices - 1"
   contactDetails:
     name: "loans qa"
     email: "loansqa@gmail.com"
